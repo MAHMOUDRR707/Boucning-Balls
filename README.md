@@ -1,2 +1,2 @@
 # Boucning-Balls
-10 balls moves randomly using GUI in java 
+10 balls moves randomly  and chaange their color using GUI in java
